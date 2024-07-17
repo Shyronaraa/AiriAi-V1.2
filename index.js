@@ -5,7 +5,7 @@
 * Thanks For Slemek And XYZ Team
 * Wea Bot || Airi Multidevice
 * Note: Jangan Memperjual Belikan Source Code Ini Kepada Orang Yang Tidak Bertanggung Jawab!
-* Contact Support: +6281998885279
+* Contact Support: +6287735348548
 */
 
 console.log("🥶 Starting.....");
